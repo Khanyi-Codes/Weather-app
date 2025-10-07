@@ -1,0 +1,8 @@
+.container{
+    text-align: center;
+    color: violet;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 20px;
+    background-color: aliceblue;
+    padding: 50px;
+}
